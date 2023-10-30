@@ -16,7 +16,7 @@ namespace Actividad2pr.__.Servicios
             {
                 ///<sumary>
                 ///Metodo que se encargara del calculo
-                ///<author>251023 - awb</author>
+                ///<author>251023 - JL </author>
                 ///</sumary>
                 double multiplicacion = numDouble;
                 int i;
@@ -25,8 +25,7 @@ namespace Actividad2pr.__.Servicios
                     multiplicacion = multiplicacion * numDouble;
                     Console.WriteLine(multiplicacion);
                 }
-                //double operacion = Math.Pow(numDouble, numInt);
-                //Console.WriteLine("La operacion da como resultado: " + operacion);
+                
             }
 
             public double peticionDouble()

@@ -9,7 +9,7 @@ namespace Actividad2pr.__.controladores
         {
             ///<sumary>
             ///Creacion de objetos y y variables
-            ///<author>251023 - awb</author>
+            ///<author>251023 - JL</author>
             ///</sumary>
             OperacionesInterfaz MI = new OperacionesImplementacion();
             double numeroDouble = MI.peticionDouble();
